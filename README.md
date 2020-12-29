@@ -3,14 +3,14 @@ A multiplayer indie-game developed using unity3d game engine.
 
 #### Developer: [Ravin Kumar](https://mr-ravin.github.io)
 
+#### Download RotationWars from Google PlayStore:
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="30%" height="30%" target="_blank">](https://play.google.com/store/apps/details?id=ravin.developer.rotationwars)
+
 #### Development related Details
 
 - Programming Language: C#
 - Game Engine: Unity 3D Game Engine
 - Duration of Game Development: Single Day.
-
-#### Download RotationWars from Google PlayStore:
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="30%" height="30%" target="_blank">](https://play.google.com/store/apps/details?id=ravin.developer.rotationwars)
 
 #### To Play in Browser: [click here](https://ravinkumar.itch.io/rotationwars) 
 
