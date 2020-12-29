@@ -16,7 +16,16 @@ A multiplayer indie-game developed using unity3d game engine.
 
 #### Demo Video on Youtube: [click here](https://www.youtube.com/watch?v=aHMLB4dGwS0)
 
-### Game Overview
+## Game Overview For Android Devices [TouchInputs]
+
+![first screen](https://github.com/mr-ravin/rotationwars/blob/main/android_main.jpg)
+
+![second screen](https://github.com/mr-ravin/rotationwars/blob/main/android_second.jpg)
+
+![play screen](https://github.com/mr-ravin/rotationwars/blob/main/android_third.jpg)
+
+
+## Game Overview For Keyboard-based Devices
 
 ![first screen](https://github.com/mr-ravin/rotationwars/blob/main/screen_1.png)
 
