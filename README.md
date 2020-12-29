@@ -7,9 +7,12 @@ A multiplayer indie-game developed using unity3d game engine.
 
 - Programming Language: C#
 - Game Engine: Unity 3D Game Engine
-- Duration of Game Development: 1 Day.
+- Duration of Game Development: Single Day.
 
-#### To Play Online: [click here](https://ravinkumar.itch.io/rotationwars) 
+#### Download RotationWars from Google PlayStore:
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="30%" height="30%" target="_blank">](https://play.google.com/store/apps/details?id=ravin.developer.rotationwars)
+
+#### To Play in Browser: [click here](https://ravinkumar.itch.io/rotationwars) 
 
 #### Demo Video on Youtube: [click here](https://www.youtube.com/watch?v=aHMLB4dGwS0)
 
