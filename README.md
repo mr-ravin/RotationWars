@@ -14,9 +14,9 @@ A multiplayer indie-game developed using unity3d game engine.
 
 #### To Play in Browser: [click here](https://ravinkumar.itch.io/rotationwars) 
 
-#### Demo Video (for Browser) on Youtube: [click here](https://www.youtube.com/watch?v=aHMLB4dGwS0)
+#### Demo Video (for PC version) on Youtube: [click here](https://www.youtube.com/watch?v=aHMLB4dGwS0)
 
-#### Demo Video (for Android) on Youtube: [click here](https://www.youtube.com/watch?v=Vm35e_zdUiw)
+#### Demo Video (for Android version) on Youtube: [click here](https://www.youtube.com/watch?v=Vm35e_zdUiw)
 
 ## Game Overview For Android Devices [Touch Inputs]
 
