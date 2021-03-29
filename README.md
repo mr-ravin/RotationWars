@@ -12,6 +12,11 @@ A multiplayer indie-game developed using unity3d game engine.
 - Game Engine: Unity 3D Game Engine
 - Duration of Game Development: Single Day.
 
+#### What makes it Challenging?
+
+- The platform keeps on accelerating.
+- Each collision have and effect on the direction of movement associated with the buttons of the players.
+
 #### To Play in Browser: [click here](https://ravinkumar.itch.io/rotationwars) 
 
 #### Demo Video (for PC version) on Youtube: [click here](https://www.youtube.com/watch?v=aHMLB4dGwS0)
