@@ -15,7 +15,7 @@ A multiplayer indie-game developed using unity3d game engine.
 #### What makes it Challenging?
 
 - The platform keeps on accelerating.
-- Each collision have and effect on the direction of movement associated with the buttons of the players.
+- Each collision have an effect on the direction of movement associated with the buttons of the players.
 
 #### To Play in Browser: [click here](https://ravinkumar.itch.io/rotationwars) 
 
