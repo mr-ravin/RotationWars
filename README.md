@@ -17,6 +17,8 @@ A multiplayer indie-game developed using unity3d game engine.
 - The platform keeps on accelerating.
 - Each collision have an effect on the direction of movement associated with the buttons of the players.
 
+![demo game](https://github.com/mr-ravin/RotationWars/blob/main/RotationWars.gif)
+
 #### To Play in Browser: [click here](https://ravinkumar.itch.io/rotationwars) 
 
 #### Demo Video (for PC version) on Youtube: [click here](https://www.youtube.com/watch?v=aHMLB4dGwS0)
