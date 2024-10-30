@@ -1,7 +1,14 @@
 # RotationWars
-A multiplayer indie-game developed using unity3d game engine.
+
+A multiplayer indie-game developed using unity3d game engine. In this game, the last man standing on an accelerating platform wins !
 
 #### Developer: [Ravin Kumar](https://mr-ravin.github.io)
+
+|Target OS Details|Number|
+|-----------------|------|
+| Android OS Version| 10 |
+| Android Target SDK| 29 |
+| API Levels        | 19+ |
 
 #### Download RotationWars from Google PlayStore:
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="30%" height="30%" target="_blank">](https://play.google.com/store/apps/details?id=ravin.developer.rotationwars)
