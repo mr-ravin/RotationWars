@@ -1,8 +1,15 @@
 # RotationWars
 
-A multiplayer indie-game developed using unity3d game engine for android. In this game, the players are placed on a rotating platform, they can push each other, and move to avoid getting pushed. One have to make the opponent fall of the platform in order win the game.
+A multiplayer indie game developed with the Unity3D game engine, where players compete on a rotating platform. They can push each other and maneuver to avoid being pushed off. The goal is to make opponents fall off the platform to claim victory.
 
 #### Developer: [Ravin Kumar](https://mr-ravin.github.io)
+
+More details about this game can be found at: https://github.com/mr-ravin/rotationwars
+
+What adds to the challenge?
+
+1. The platform continuously accelerates.
+2. Each collision affects the players' control direction, altering how movement buttons respond.
 
 |Target OS Details|Number|
 |-----------------|------|
