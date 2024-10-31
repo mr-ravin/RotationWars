@@ -26,11 +26,6 @@ What adds to the challenge?
 - Game Engine: Unity 3D Game Engine
 - Duration of Game Development: Single Day.
 
-#### What makes it Challenging?
-
-- The platform keeps on accelerating.
-- Each collision have an effect on the direction of movement associated with the buttons of the players.
-
 ![demo game](https://github.com/mr-ravin/RotationWars/blob/main/RotationWars.gif)
 
 ##### Download: [Source Code](https://drive.google.com/file/d/1Lx8Tz5kgeufOOauivgAc-9qoOvAUxJxF/view?usp=sharing)
