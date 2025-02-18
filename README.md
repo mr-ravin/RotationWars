@@ -9,7 +9,7 @@ More details about this game can be found at: https://github.com/mr-ravin/rotati
 What adds to the challenge?
 
 1. The platform continuously accelerates.
-2. Each collision affects the players' control direction, altering how movement buttons respond.
+2. Each collision affects the player's control direction, altering how movement buttons respond.
 
 |Target OS Details|Number|
 |-----------------|------|
