@@ -1,5 +1,11 @@
 # RotationWars
 
+----
+
+#### Important: The latest version of RotationWars 2 is available here: https://github.com/mr-ravin/RotationWars2
+
+----
+
 A multiplayer indie game developed with the Unity3D game engine, where players compete on a rotating platform. They can push each other and maneuver to avoid being pushed off. The goal is to make opponents fall off the platform to claim victory.
 
 #### Developer: [Ravin Kumar](https://mr-ravin.github.io)
@@ -10,12 +16,6 @@ What adds to the challenge?
 
 1. The platform continuously accelerates.
 2. Each collision affects the player's control direction, altering how movement buttons respond.
-
-----
-
-#### Important: The latest version of RotationWars 2 is available here: https://github.com/mr-ravin/RotationWars2
-
-----
 
 |Target OS Details|Number|
 |-----------------|------|
