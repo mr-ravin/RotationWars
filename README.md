@@ -11,6 +11,12 @@ What adds to the challenge?
 1. The platform continuously accelerates.
 2. Each collision affects the player's control direction, altering how movement buttons respond.
 
+----
+
+#### IMPORTANT: New and updated version of this game i.e. RotationWars 2 is available at: https://github.com/mr-ravin/RotationWars2/
+
+----
+
 |Target OS Details|Number|
 |-----------------|------|
 | Android OS Version| 10 |
