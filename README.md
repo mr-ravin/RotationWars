@@ -13,7 +13,7 @@ What adds to the challenge?
 
 ----
 
-#### IMPORTANT: New and updated version of this game i.e. RotationWars 2 is available at: https://github.com/mr-ravin/RotationWars2/
+#### Important: The latest version of RotationWars 2 is available here: https://github.com/mr-ravin/RotationWars2
 
 ----
 
