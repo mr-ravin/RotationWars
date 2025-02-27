@@ -8,7 +8,8 @@
 
 A multiplayer indie game developed with the Unity3D game engine, where players compete on a rotating platform. They can push each other and maneuver to avoid being pushed off. The goal is to make opponents fall off the platform to claim victory.
 
-#### Game Developer: [Ravin Kumar](https://mr-ravin.github.io)
+##### Game Developer: [Ravin Kumar](https://mr-ravin.github.io)
+##### Github Repository: https://github.com/mr-ravin/rotationwars
 
 More details about this game can be found at: https://github.com/mr-ravin/rotationwars
 
