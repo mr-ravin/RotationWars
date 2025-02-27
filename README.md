@@ -16,32 +16,38 @@ A multiplayer indie game developed with the Unity3D game engine, where players c
 
 ----
 
-|Target OS Details|Number|
-|-----------------|------|
-| Android OS Version| 10 |
-| Android Target SDK| 29 |
-| API Levels        | 19+ |
-
-#### Download RotationWars from Google PlayStore:
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="30%" height="30%" target="_blank">](https://play.google.com/store/apps/details?id=ravin.developer.rotationwars)
-
-#### Development related Details
-
-- Programming Language: C#
-- Game Engine: Unity 3D Game Engine
-- Duration of Game Development: Single Day.
-
 [![Working Demonstration](https://github.com/mr-ravin/RotationWars/blob/main/RotationWars.gif)](https://www.youtube.com/watch?v=Vm35e_zdUiw)
 
-##### Download: [Source Code](https://drive.google.com/file/d/1Lx8Tz5kgeufOOauivgAc-9qoOvAUxJxF/view?usp=sharing)
+### Play the game :
+1. <b>Google Play</b>: [android install](https://play.google.com/store/apps/details?id=ravin.developer.rotationwars)
+2. <b>Play online</b> on itch.io: [play online](https://ravinkumar.itch.io/rotationwars)
+3. <b>Github repository</b>: [source code](https://github.com/mr-ravin/rotationwars)
 
-#### To Play in Browser: [click here](https://ravinkumar.itch.io/rotationwars) 
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="30%" height="30%" target="_blank">](https://play.google.com/store/apps/details?id=ravin.developer.rotationwars)
 
-#### Demo Video (for PC version) on Youtube: [click here](https://www.youtube.com/watch?v=aHMLB4dGwS0)
+Watch demonstration of the game play (PC Version) on [YouTube](https://www.youtube.com/watch?v=aHMLB4dGwS0).
 
-#### Demo Video (for Android version) on Youtube: [click here](https://www.youtube.com/watch?v=Vm35e_zdUiw)
+Watch demonstration of the game play (Android Version) on [YouTube](https://www.youtube.com/watch?v=Vm35e_zdUiw).
 
-## Game Overview For Android Devices [Touch Inputs]
+----
+
+#### Development Related Information:
+
+1. <b>Programming and Tools</b>:
+  - Programming Language: C#
+  - Game Engine: Unity 3D Game Engine
+  - Duration of Game Development: Single Day.
+  - ##### Download: [Source Code](https://drive.google.com/file/d/1Lx8Tz5kgeufOOauivgAc-9qoOvAUxJxF/view?usp=sharing)
+
+2. <b>Android Build (.apk)</b>:
+   
+  |Target OS Details|Number|
+  |-----------------|------|
+  | Android OS Version| 10 |
+  | Android Target SDK| 29 |
+  | API Levels        | 19+ |
+
+#### Screenshots of Game Play for Android Devices [Touch Inputs]:
 
 ![first screen](https://github.com/mr-ravin/rotationwars/blob/main/android_main.jpg)
 
@@ -50,7 +56,7 @@ A multiplayer indie game developed with the Unity3D game engine, where players c
 ![play screen](https://github.com/mr-ravin/rotationwars/blob/main/android_third.jpg)
 
 
-## Game Overview For Keyboard-based Devices
+#### Screenshots of Game Play for Keyboard-based Devices:
 
 ![first screen](https://github.com/mr-ravin/rotationwars/blob/main/screen_1.png)
 
@@ -58,6 +64,7 @@ A multiplayer indie game developed with the Unity3D game engine, where players c
 
 ![play screen](https://github.com/mr-ravin/rotationwars/blob/main/screen_3.png)
 
+##### Copyright license
 ```
 Copyright (c) 2020 Ravin Kumar
 Website: https://mr-ravin.github.io
