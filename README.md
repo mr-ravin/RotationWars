@@ -11,8 +11,6 @@ A multiplayer indie game developed with the Unity3D game engine, where players c
 ##### Game Developer: [Ravin Kumar](https://mr-ravin.github.io)
 ##### Github Repository: https://github.com/mr-ravin/rotationwars
 
-More details about this game can be found at: https://github.com/mr-ravin/rotationwars
-
 What adds to the challenge?
 
 1. The platform continuously accelerates.
